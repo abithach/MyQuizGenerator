@@ -19,10 +19,10 @@ git clone https://github.com/nitinsomu/QuizGeneratorNLP
 Install python from https://www.python.org/downloads/
 
 ### Step 3:
-
-Install the requirements by running the following command.
+Enter the folder and install the requirements by running the following command.
 
 ```bash
+cd QuizGeneratorNLP
 pip install -r requirements.txt
 ```
 
