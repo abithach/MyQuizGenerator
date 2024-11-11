@@ -45,3 +45,26 @@ python app.py
 ### Step 6: 
 
 Head over to http://localhost:5000/ to access the app
+
+## To run the QuizGenerator.pynb file, follow these steps:
+
+### Step 1: Set Up Jupyter Notebook Environment
+Install Jupyter Notebook: If you haven't already installed it, open a terminal and use the following command:
+```bash
+pip install jupyter
+```
+
+### Step 2: Launch Jupyter Notebook
+Open Terminal: Navigate to the directory where the .pynb file is located.
+Start Jupyter Notebook:
+```bash
+jupyter notebook
+```
+This command will open Jupyter Notebook in your default web browser, showing a list of your files.
+
+### Step 3: Open and Run the Notebook
+Select the Notebook: Find and click on your .pynb file to open it.
+Run the Code Cells:
+Click on each code cell and press Shift + Enter to execute it.
+Alternatively, use the “Run” button from the toolbar to execute each cell.
+You can also select Cell > Run All from the menu to run all cells sequentially.
