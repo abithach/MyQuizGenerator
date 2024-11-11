@@ -46,7 +46,7 @@ python app.py
 
 Head over to http://localhost:5000/ to access the app
 
-## To run the QuizGenerator.pynb file, follow these steps:
+## To run the QuizGenerator.ipynb file, follow these steps:
 
 ### Step 1: Set Up Jupyter Notebook Environment
 Install Jupyter Notebook: If you haven't already installed it, open a terminal and use the following command:
