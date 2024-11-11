@@ -55,7 +55,7 @@ pip install jupyter
 ```
 
 ### Step 2: Launch Jupyter Notebook
-Open Terminal: Navigate to the directory where the .pynb file is located.
+Open Terminal: Navigate to the directory where the .ipynb file is located.
 Start Jupyter Notebook:
 ```bash
 jupyter notebook
